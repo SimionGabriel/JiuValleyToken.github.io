@@ -40,3 +40,24 @@ experience, for which is required the existence of
 the Jiu Valley Token.
 
 # Each purchase made by tourists* would generate Jiu Valley Tokens (JVT) in client’s account
+
+The cashback system will lead to the following results:
+• increasing the duration of time spent by tourists in Jiu Valley;
+• increase the daily amount of currency spent by tourists;
+• ensure the return of visitors;
+• attracting new people through referral-type incentives.
+Such a cashback system will allow economic operators to collaborate / offer integrated services, and visitors to enjoy the most gamified tourist
+experience in Eastern Europe.
+TOURIST’S INTERFACE
+Downloads the application on the phone;
+Spends currency in the ecosystem (dinner at the restaurant, gondola ride, local products, etc.);
+Receives JVT proportional to consumption level, consumption frequency, referrals, etc. (To be determined)
+Spends the JVT in the ecosystem, transfers them to friends or donates them to charity.
+ECONOMIC OPERATOR’S INTERFACE
+Downloads the application on the phone;
+Sets the level and type of discounts applied (with certain limits);
+In addition to the classic rates, it shows the customers the level of rewards in JVT they will receive;
+Manages the basket of discount points available for distribution (buys from the free market when it offers customers more than it receives from them, or
+sells when it receives in excess).
+9
+If this limitation will remain, the concept of “tourist” should be defined. It might require the creation of a tokenized “Jiu Valley tourist passport”
